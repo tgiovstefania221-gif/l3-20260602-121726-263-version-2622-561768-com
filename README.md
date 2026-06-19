@@ -1,16 +1,15 @@
-﻿# website-upload-20260602-121726-263
+# 日韩热门电影-热门电影片库-热门影片在线点播
 
-Batch 263 of 14. Contains extracted static website versions. The original zip files are not committed.
+这是根据上传资料生成的纯静态电影网站。
 
-| Directory | Source zip |
-| --- | --- |
-| version-2621 | project-bolt-sb1-todvtukc-chatgpt (1).zip |
-| version-2622 | project-bolt-sb1-tpbznzlg - 副本-chatgpt (1).zip |
-| version-2623 | project-bolt-sb1-tpbznzlg-chatgpt (1).zip |
-| version-2624 | project-bolt-sb1-tpxdtylb-chatgpt (1).zip |
-| version-2625 | project-bolt-sb1-trjfsced - 副本-chatgpt (1).zip |
-| version-2626 | project-bolt-sb1-trjfsced-chatgpt (1).zip |
-| version-2627 | project-bolt-sb1-tt4jebjd - 副本-chatgpt (1).zip |
-| version-2628 | project-bolt-sb1-tt4jebjd-chatgpt (1).zip |
-| version-2629 | project-bolt-sb1-tthibhis - 副本-chatgpt (1).zip |
-| version-2630 | project-bolt-sb1-tthibhis-chatgpt (1).zip |
+- 影片数量：2000
+- 独立详情页：2000 个
+- 独立分类页：10 个
+- 首页：index.html
+- 分类总览：categories.html
+- 热播榜：ranking.html
+- 全站搜索：search.html
+- 样式文件：assets/css/style.css
+- 交互脚本：assets/js/main.js
+
+封面图片路径按顶级目录 1.jpg 到 150.jpg 引用。如果部署时拥有这批图片，请放在网站根目录即可自动对应。
